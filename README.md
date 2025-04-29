@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Aashi!
+Welcome to my GitHub profile! I’m a passionate and curious tech explorer, blending engineering with creativity to build meaningful and user-friendly digital experiences.
 
-<!--
-**aashi-121/aashi-121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔧 Technologies & Skills
+Programming Languages: C/C++, Java, Python
+Frameworks & Libraries: Pandas, Numpy
+Databases: MySQL
+Focus Areas: AI/ML, Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🎓 Computer Science Engineering Student  
+💻 Passionate about Web Development and Solving DSA problems
+🚀 Currently working on a road safety project
+📫 Reach me at: aashi1513@gmail.com
+🔗 Connect with me on 
+[LinkedIn - Aashi Sharma](https://www.linkedin.com/in/aashi-sharma-1b63a024b/)
+
